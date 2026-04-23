@@ -59,7 +59,7 @@
 
 
 <h1 align="center">Hi, I'm Minakshi Burman</h1>
-<h3 align="center">Full Stack Developer • React • React Native • Backend Systems</h3>
+<h3 align="center">Full Stack Developer • Backend Developer</h3>
 
 ---
 

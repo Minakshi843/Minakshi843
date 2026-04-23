@@ -16,6 +16,14 @@
 
 ---
 
+## 📅 Contribution Heatmap (Like GitHub)
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/Minakshi843" />
+</p>
+
+---
+
 ## 🔢 Contributions Graph
 
 <p align="center">

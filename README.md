@@ -58,20 +58,15 @@
 
 
 
-
-
-<h1 align="center">Hi, I'm Minakshi Burman</h1>
-<h3 align="center">Full Stack Developer • React • React Native • Backend & Database</h3>
-
----
+Hi, I'm Minakshi Burman  
+Full Stack Developer specializing in React, React Native, and backend systems
 
 ## 👩‍💻 About Me
-
-* 💻 Full Stack Developer with **1 year of hands-on experience**
-* ⚛️ Working with **React & React Native**
-* 🗄️ Strong in **PostgreSQL & DBMS**
-* ⚙️ Building **APIs & full-stack applications**
-
+- Full Stack Developer with 1 year of hands-on development experience  
+- Focused on building scalable web and mobile applications  
+- Strong in React, React Native, and REST API integration  
+- Proficient in PostgreSQL and core DBMS concepts  
+- Experience working across the full stack — frontend, backend, and database  
 ---
 
 ## 📊 GitHub Dashboard

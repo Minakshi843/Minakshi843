@@ -113,17 +113,57 @@
 </p>
 
 ---
-
 ## 🚀 Projects
 
-* 🔹 Weather Monitoring System
-* 🔹 Rule Engine with AST
-* 🔹 Credit Card Fraud Detection
+### 🔹 MatrixTrack (Organization Project)
+
+* Contributed to a full-stack tracking and management system for web and mobile platforms
+* Developed features using **React (Web) and React Native (Mobile)**
+* Built and integrated backend APIs using **Node.js** with **PostgreSQL (RDS)**
+* Implemented functionalities like **geofencing and face recognition** for real-time tracking
+* Worked with **AWS services (S3, RDS)** for storage and scalability
+* Collaborated in a team environment on a production-level system
+
+**Tech Stack:** React, React Native, Node.js, PostgreSQL, AWS
 
 ---
 
-## 🔥 Profile Views
+### 🔹 Voice Agent (AI-based System)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Minakshi843&label=Profile%20Views&color=000000&style=flat" />
-</p>
+* Developed a voice-enabled customer support system using AI tools and APIs
+* Integrated **Gemini and open-source LLMs** for handling user queries
+* Used libraries like **LangChain, LiveKit, and Twilio** for communication and processing
+* Focused on API integration, response handling, and conversational flow
+
+**Tech Stack:** Python, APIs, LangChain, LiveKit, Twilio, LLMs
+
+---
+
+### 🔹 Swachh Ranking System (Organization Project)
+
+* Contributed to a large-scale ranking system for data processing and reporting
+* Worked on frontend and backend modules, improving performance and usability
+* Involved in debugging, testing, and feature enhancements across components
+* Collaborated within a team on a production-level codebase
+
+**Tech Stack:** React, React Native, Node.js, TypeScript
+
+---
+
+### 🔹 User Access Management System
+
+* Developed a web-based system to manage user access and permissions
+* Implemented features like access requests, approvals, and role-based control
+* Built backend using **Java Servlets, JSP, and JDBC** following MVC architecture
+* Integrated **Oracle SQL** for database operations
+
+**Tech Stack:** Java, JSP, Servlets, JDBC, Oracle SQL
+
+---
+
+## 🔗 More Projects
+
+👉 [View All Repositories](https://github.com/Minakshi843?tab=repositories)
+
+
+---
